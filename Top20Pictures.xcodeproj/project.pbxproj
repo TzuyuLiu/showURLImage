@@ -14,6 +14,7 @@
 		63A3030922E9C3AB004E2C89 /* Top20Pictures.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 63A3030722E9C3AB004E2C89 /* Top20Pictures.xcdatamodeld */; };
 		63A3030B22E9C3AF004E2C89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63A3030A22E9C3AF004E2C89 /* Assets.xcassets */; };
 		63A3030E22E9C3AF004E2C89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63A3030C22E9C3AF004E2C89 /* LaunchScreen.storyboard */; };
+		63ABBEFF23029A79001725F6 /* Photos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABBEFE23029A79001725F6 /* Photos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		63A3030A22E9C3AF004E2C89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63A3030D22E9C3AF004E2C89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63A3030F22E9C3AF004E2C89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63ABBEFE23029A79001725F6 /* Photos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				63A302FE22E9C3AB004E2C89 /* AppDelegate.swift */,
 				63A3030022E9C3AB004E2C89 /* SceneDelegate.swift */,
 				63A3030222E9C3AB004E2C89 /* ViewController.swift */,
+				63ABBEFE23029A79001725F6 /* Photos.swift */,
 				63A3030422E9C3AB004E2C89 /* Main.storyboard */,
 				63A3030A22E9C3AF004E2C89 /* Assets.xcassets */,
 				63A3030C22E9C3AF004E2C89 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				63A3030322E9C3AB004E2C89 /* ViewController.swift in Sources */,
 				63A302FF22E9C3AB004E2C89 /* AppDelegate.swift in Sources */,
+				63ABBEFF23029A79001725F6 /* Photos.swift in Sources */,
 				63A3030922E9C3AB004E2C89 /* Top20Pictures.xcdatamodeld in Sources */,
 				63A3030122E9C3AB004E2C89 /* SceneDelegate.swift in Sources */,
 			);
